@@ -1,0 +1,41 @@
+.container{
+    height:500px;
+    width:1300px;
+    margin:auto;
+    
+}
+
+.nav{
+    width:1300px;
+    height:120px;
+    background: blueviolet;
+}
+
+.session{
+    width:1300px;
+    height:200px;
+    background: palevioletred;
+}
+.footer{
+    width:1300px;
+    height: 180px;
+    background:yellowgreen;
+}
+.footerone{
+    width:300px;
+    height:180px;
+    background:blueviolet;
+    float:left;
+}
+.footertwo{
+    width:600px;
+    height:280px;
+    background:indigo;
+    float:left;
+}
+.footerthree{
+    width:400px;
+    height:180px;
+    background:greenyellow;
+    float:left;
+}
